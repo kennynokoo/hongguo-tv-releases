@@ -3,7 +3,7 @@
 專為 Windows 桌面打造的現代化串流追劇體驗——靈感源自 Netflix 影院級暗黑視覺設計，單檔免安裝、開箱即用，支援探索刷劇、一鍵無縫追劇、批次離線快取與純鍵盤／滑鼠操控。
 
 > 本倉庫僅用於發佈 Windows 執行檔（`.exe`）與更新說明。  
-> 👉 **[立即下載最新版 Hongguo-TV.exe (v0.2.172)](https://github.com/kennynokoo/hongguo-tv-releases/releases/download/v0.2.172/Hongguo-TV.exe)** · **[查看所有 Releases](https://github.com/kennynokoo/hongguo-tv-releases/releases)**
+> 👉 **[立即下載最新版 Hongguo-TV.exe (v0.2.172)](https://github.com/kennynokoo/hongguo-tv-releases/releases/download/v0.2.172-custom.35/Hongguo-TV.exe)** · **[查看所有 Releases](https://github.com/kennynokoo/hongguo-tv-releases/releases)**
 
 ---
 
